@@ -69,10 +69,10 @@ Open the loan_prediction.ipynb file and follow the step-by-step instructions pro
 ## 7. Results in Test
 | Metric    |  Value |
 |-----------|--------|
-| Accuracy  |  98%   |
-| Precision |  97%   |
-| Recall    |  99%   |
-| F1 Score  |  98%   |
+| Accuracy  |  80%   |
+| Precision |  81%   |
+| Recall    |  71%   |
+| F1 Score  |  73%   |
 
 ## 8. Contributing
 
